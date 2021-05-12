@@ -1,0 +1,28 @@
+{
+  "name": "final-budget-tracker",
+  "version": "1.0.0",
+  "description": "https://github.com/jacksonpeak1/Tracker-Budget",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonpeak1/Final-Budget-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonpeak1/Final-Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/jacksonpeak1/Final-Budget-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.12.8",
+    "morgan": "^1.10.0"
+  }
+}
