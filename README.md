@@ -2,11 +2,11 @@
 
 ## Deployed Application
 
-
+https://jacksonpeak.herokuapp.com/
 
 ## GitHub Repository
 
-https://github.com/jacksonpeak1/Tracker-Budget
+https://github.com/jacksonpeak1/Final-Budget-Tracker
 
 ## Description
 
